@@ -1,20 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.14",
+	"EngineAssociation": "4.19",
 	"Category": "",
-	"Description": "",
-	"Plugins": [
-		{
-			"Name": "GestureTrackerVR",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/378f739f054340899db2569090222fd3"
-		},
-		{
-			"Name": "StereoPanorama",
-			"Enabled": true
-		}
-	],
-	"TargetPlatforms": [
-		"WindowsNoEditor"
-	]
+	"Description": ""
 }
